@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871879406223",
+    "firebase_url": "https://locationapp-e2e71.firebaseio.com",
+    "project_id": "locationapp-e2e71",
+    "storage_bucket": "locationapp-e2e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871879406223:android:f3524006ca062cfdf136fa",
+        "android_client_info": {
+          "package_name": "com.example.locationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871879406223-f7avl60n8lvo8c3l4deirse73em9tga2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationapp",
+            "certificate_hash": "dd4740e899d062e4c4c3a68d32939ac619580433"
+          }
+        },
+        {
+          "client_id": "871879406223-hch4auaedavqb4ue3ctg2vptr7lpevlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcaYzIz_1Clmcy838Wt69I2xWgCE1_vAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871879406223-hch4auaedavqb4ue3ctg2vptr7lpevlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
